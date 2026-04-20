@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /config/
+Disallow: /includes/
+Disallow: /api/
+Disallow: /lib/
+Disallow: /data/
+
+Sitemap: https://hewlettcomputerservice.us/sitemap.xml
